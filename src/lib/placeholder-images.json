@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-picture",
+      "description": "A professional headshot of a software engineer.",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1bfgYq0lIhyd-RTeVU7KTpQa-7usIEXkP",
+      "imageHint": "male portrait"
+    }
+  ]
+}
